@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-    s.name                  = 'ReactiveSwift'
+    s.name                  = 'OKReactiveSwift'
     s.version               = '7.1.1'
-    s.summary               = 'A short description of ReactiveSwift.'
+    s.summary               = 'A short description of OKReactiveSwift.'
     s.homepage              = "http://ok.ru"
     s.license               = { :type => 'MIT', :file => 'LICENSE' }
     s.author                = { 'Dmitry Rybochkin' => 'dmitry.rybochkin@corp.mail.ru' }
